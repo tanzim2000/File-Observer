@@ -1,3 +1,9 @@
+##############################################################################
+#PROGRAM: FILE OBSERVER
+#VERSION: 1.0(BETA)
+#DESCRIPTION: A handy little tool to see if a targeted file is being modified
+##############################################################################
+
 # Prompt user for the file to monitor
 $targetFile = Read-Host "Enter the full path of the file to monitor"
 
